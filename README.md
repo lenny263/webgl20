@@ -1,2 +1,2 @@
 # webgl20
-Código en WebGL
+Código en WebGL 2.0
